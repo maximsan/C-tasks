@@ -1,0 +1,3 @@
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\areaOfTreangle\squareOfTreangle\bin\Debug\squareOfTreangle.exe.config
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\areaOfTreangle\squareOfTreangle\obj\Debug\squareOfTreangle.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\areaOfTreangle\squareOfTreangle\obj\Debug\squareOfTreangle.pdb

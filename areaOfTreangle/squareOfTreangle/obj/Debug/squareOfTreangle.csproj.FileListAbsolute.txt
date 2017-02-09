@@ -1,0 +1,6 @@
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\squareOfTreangle\squareOfTreangle\bin\Debug\squareOfTreangle.exe.config
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\squareOfTreangle\squareOfTreangle\bin\Debug\squareOfTreangle.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\squareOfTreangle\squareOfTreangle\bin\Debug\squareOfTreangle.pdb
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\squareOfTreangle\squareOfTreangle\obj\Debug\squareOfTreangle.csprojResolveAssemblyReference.cache
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\squareOfTreangle\squareOfTreangle\obj\Debug\squareOfTreangle.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\squareOfTreangle\squareOfTreangle\obj\Debug\squareOfTreangle.pdb

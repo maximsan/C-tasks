@@ -1,0 +1,11 @@
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\ThreeShapesABC\ThreeShapesABC\obj\Debug\ThreeShapesABC.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\ThreeShapesABC\ThreeShapesABC\bin\Debug\ThreeShapesABC.exe.config
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\ThreeShapesABC\ThreeShapesABC\bin\Debug\ThreeShapesABC.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\ThreeShapesABC\ThreeShapesABC\bin\Debug\ThreeShapesABC.pdb
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\ThreeShapesABC\ThreeShapesABC\obj\Debug\ThreeShapesABC.pdb
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\twoShapesABC\ThreeShapesABC\bin\Debug\ThreeShapesABC.exe.config
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\twoShapesABC\ThreeShapesABC\obj\Debug\ThreeShapesABC.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\twoShapesABC\ThreeShapesABC\obj\Debug\ThreeShapesABC.pdb
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\twoShapes\twoShapes\bin\Debug\ThreeShapesABC.exe.config
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\twoShapes\twoShapes\obj\Debug\ThreeShapesABC.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\twoShapes\twoShapes\obj\Debug\ThreeShapesABC.pdb

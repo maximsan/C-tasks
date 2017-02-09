@@ -1,0 +1,6 @@
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\DescsriptionOfNumber\DescsriptionOfNumber\bin\Debug\DescsriptionOfNumber.exe.config
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\DescsriptionOfNumber\DescsriptionOfNumber\obj\Debug\DescsriptionOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\DescsriptionOfNumber\DescsriptionOfNumber\bin\Debug\DescsriptionOfNumber.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\DescsriptionOfNumber\DescsriptionOfNumber\bin\Debug\DescsriptionOfNumber.pdb
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\DescsriptionOfNumber\DescsriptionOfNumber\obj\Debug\DescsriptionOfNumber.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\DescsriptionOfNumber\DescsriptionOfNumber\obj\Debug\DescsriptionOfNumber.pdb

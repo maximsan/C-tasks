@@ -1,0 +1,6 @@
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\ThreeShapesABC\ThreeShapesABC\bin\Debug\ThreeShapesABC.exe.config
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\ThreeShapesABC\ThreeShapesABC\bin\Debug\ThreeShapesABC.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\ThreeShapesABC\ThreeShapesABC\bin\Debug\ThreeShapesABC.pdb
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\ThreeShapesABC\ThreeShapesABC\obj\Debug\ThreeShapesABC.csprojResolveAssemblyReference.cache
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\ThreeShapesABC\ThreeShapesABC\obj\Debug\ThreeShapesABC.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\ThreeShapesABC\ThreeShapesABC\obj\Debug\ThreeShapesABC.pdb

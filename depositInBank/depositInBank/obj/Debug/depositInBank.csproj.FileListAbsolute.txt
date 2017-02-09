@@ -1,0 +1,6 @@
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\depositInBank\depositInBank\bin\Debug\depositInBank.exe.config
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\depositInBank\depositInBank\obj\Debug\depositInBank.csprojResolveAssemblyReference.cache
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\depositInBank\depositInBank\bin\Debug\depositInBank.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\depositInBank\depositInBank\bin\Debug\depositInBank.pdb
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\depositInBank\depositInBank\obj\Debug\depositInBank.exe
+C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\depositInBank\depositInBank\obj\Debug\depositInBank.pdb
