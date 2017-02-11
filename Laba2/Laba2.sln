@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dimensionalAndNotArrays", "Laba2\dimensionalAndNotArrays.csproj", "{C8E56B8F-5FBD-45A2-8A48-CA5C574B4918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overalElementsOfArrays", "overalElementsOfArrays\overalElementsOfArrays.csproj", "{B8A83598-C6E5-4482-8A4E-91BEB08C67C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isPalindrom", "isPalindrom\isPalindrom.csproj", "{7A2C3ADF-FB7E-4DCE-994D-52F00075FA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quantityOfWordsInSentence", "quantityOfWordsInSentence\quantityOfWordsInSentence.csproj", "{08309BE5-4021-4AB9-99F7-449D59088038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twoDimensionalArraySum", "twoDimensionalArraySum\twoDimensionalArraySum.csproj", "{76D97854-1835-4C89-BADE-C8282FE5A986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E56B8F-5FBD-45A2-8A48-CA5C574B4918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E56B8F-5FBD-45A2-8A48-CA5C574B4918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E56B8F-5FBD-45A2-8A48-CA5C574B4918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E56B8F-5FBD-45A2-8A48-CA5C574B4918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A83598-C6E5-4482-8A4E-91BEB08C67C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A83598-C6E5-4482-8A4E-91BEB08C67C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A83598-C6E5-4482-8A4E-91BEB08C67C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A83598-C6E5-4482-8A4E-91BEB08C67C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A2C3ADF-FB7E-4DCE-994D-52F00075FA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2C3ADF-FB7E-4DCE-994D-52F00075FA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2C3ADF-FB7E-4DCE-994D-52F00075FA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2C3ADF-FB7E-4DCE-994D-52F00075FA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08309BE5-4021-4AB9-99F7-449D59088038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08309BE5-4021-4AB9-99F7-449D59088038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08309BE5-4021-4AB9-99F7-449D59088038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08309BE5-4021-4AB9-99F7-449D59088038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D97854-1835-4C89-BADE-C8282FE5A986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D97854-1835-4C89-BADE-C8282FE5A986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D97854-1835-4C89-BADE-C8282FE5A986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D97854-1835-4C89-BADE-C8282FE5A986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
