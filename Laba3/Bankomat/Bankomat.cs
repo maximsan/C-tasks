@@ -7,8 +7,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-
-
 namespace Bankomat
 {
     using Client;
@@ -16,9 +14,18 @@ namespace Bankomat
     {
         static void Main(string[] args)
         {
-            Client client = new Client();
-            client.NewDeposit();
-            client.NewMenuOfBankomat();
+           Client client = new Client();
+
+            try
+           {
+               client.NewDeposit();
+               client.NewMenuOfBankomat();
+           }
+           catch (Exception e)
+           {
+               Console.WriteLine(e.Message);
+           }
+               
         }
 
     }
