@@ -12,26 +12,66 @@ namespace Day7_tanks_
     {
         static void Main(string[] args)
         {
-            Tank [] panteraTanks = new Tank[5];
-            Tank [] t34Tanks = new Tank[5];
-            for (int i = 0; i < panteraTanks.Length; i++)
+            try
             {
-                panteraTanks[i] = new Tank("Pantera - " + (i+1));
-                Thread.Sleep(100);
-            }
- 
-            for (int i = 0; i < t34Tanks.Length; i++)
-            {
-                t34Tanks[i] = new Tank("T34 - " + (i+1));
-                Thread.Sleep(100);
+                const int n = 5;
+                int CountOfWinOfPantaraTanks=0;
+                int CountOfWinOfT34Tanks=0;
+                Tank[] panteraTanks = new Tank[n];
+                Tank[] t34Tanks = new Tank[n];
+                if (panteraTanks == null || t34Tanks == null)
+                {
+                    throw new Exception("Error of memory allocation");
+                }
+                for (int i = 0; i < panteraTanks.Length; i++)
+                {
+                    panteraTanks[i] = new Tank("Pantera");
+                    if (panteraTanks[i] == null)
+                    {
+                        throw new Exception("Error of memory allocation for pantera tanks");
+                    }
+                    Thread.Sleep(100);
+                }
+
+                for (int i = 0; i < t34Tanks.Length; i++)
+                {
+                    t34Tanks[i] = new Tank("T34");
+                    if (t34Tanks[i] == null)
+                    {
+                        throw new Exception("Error of memory allocation for t34 tanks");
+                    }
+                    Thread.Sleep(100);
+                }
+                for (int i = 0; i < n; i++)
+                {
+                    
+                    string NameOfWinner = panteraTanks[i] * t34Tanks[i];
+                    if (NameOfWinner == "Pantera")
+                        CountOfWinOfPantaraTanks++;
+                    else if (NameOfWinner == "T34")
+                        CountOfWinOfT34Tanks++;
+                    if (NameOfWinner != null)
+                    {
+                        Console.WriteLine("In " + (i + 1) + " battle:");
+                        Console.WriteLine("Winner: {0}", NameOfWinner);
+                    }
+                    else 
+                        Console.WriteLine("Draw!!!");
+                    
+                    Thread.Sleep(1000);
+                }
+
+                if (CountOfWinOfPantaraTanks < CountOfWinOfT34Tanks)
+                    Console.WriteLine("Winner of the games:T34 tanks");
+                else if (CountOfWinOfPantaraTanks > CountOfWinOfT34Tanks)
+                    Console.WriteLine("Winner of the all games: Pantera tanks");
+                else Console.WriteLine("Draw!!!");
+
             }
 
-
-            for (int i = 0; i < 5; i++)
+            catch (Exception e)
             {
-                Console.WriteLine("In "+(i+1)+" battle win:");
-                Console.WriteLine(panteraTanks[i] * t34Tanks[i]);
-                Thread.Sleep(1000);
+                Console.WriteLine(e.Message);
             }
 
             Console.ReadKey();

@@ -12,6 +12,7 @@ namespace MyClassLib
         private int LevelOfAllowanceOfAmmunition;
         private int LevelOfArmor;
         private int LevelOfMobility;
+
         Random ran = new Random();
 
         public Tank(string NameOfTank)
@@ -50,11 +51,20 @@ namespace MyClassLib
         
         public static string operator *(Tank panteraTank, Tank t34Tank)
         {
+            
             if ((panteraTank.LevelOfAllowanceOfAmmunition * panteraTank.LevelOfArmor * panteraTank.LevelOfMobility >
-                t34Tank.LevelOfAllowanceOfAmmunition * t34Tank.LevelOfArmor * t34Tank.LevelOfMobility))
+                 t34Tank.LevelOfAllowanceOfAmmunition * t34Tank.LevelOfArmor * t34Tank.LevelOfMobility))
+            {
+
                 return panteraTank.NameOfTank;
-            else 
-                return t34Tank.NameOfTank;
+            }
+            else if ((panteraTank.LevelOfAllowanceOfAmmunition * panteraTank.LevelOfArmor * panteraTank.LevelOfMobility <
+                      t34Tank.LevelOfAllowanceOfAmmunition * t34Tank.LevelOfArmor * t34Tank.LevelOfMobility))
+            {
+                  return t34Tank.NameOfTank;
+                
+            }
+            else return "nobody";
 
         }
 
