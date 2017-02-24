@@ -4,3 +4,6 @@ C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\depositIn
 C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\depositInBank\depositInBank\bin\Debug\depositInBank.pdb
 C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\depositInBank\depositInBank\obj\Debug\depositInBank.exe
 C:\Users\maxim\OneDrive\Документы\Visual Studio 2013\Projects\depositInBank\depositInBank\obj\Debug\depositInBank.pdb
+D:\GitRepositories\CSharp-tasks\depositInBank\depositInBank\bin\Debug\depositInBank.exe.config
+D:\GitRepositories\CSharp-tasks\depositInBank\depositInBank\obj\Debug\depositInBank.exe
+D:\GitRepositories\CSharp-tasks\depositInBank\depositInBank\obj\Debug\depositInBank.pdb
